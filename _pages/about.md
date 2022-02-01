@@ -16,3 +16,7 @@ Current situation
 
 Research Interests
 ======
+
+Other Interests
+======
+In my spare time I enjoy doing half-distance races (10K, half-marathon), climbing, scuba-diving (Advanced Diver) and traveling. Moreover, I've always been a passionate about languages, fluently speaking four of them and always trying to learn more.
