@@ -1,22 +1,22 @@
 ---
 permalink: /
-title: "Welcome to my personal site"
-excerpt: "About me"
+title: "Bio"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
+## Welcome to my personal site!
+
 I am Alejandro.
 
-As of today
-======
-Current situation
+## Current situation
+As of today,
 
-Research Interests
-======
+## Research Interests
+
 
 Other Interests
 ======
-In my spare time I enjoy doing half-distance races (10K, half-marathon), climbing, scuba-diving (Advanced Diver) and traveling. Moreover, I've always been a passionate about languages, fluently speaking four of them and always trying to learn more.
+In my spare time I enjoy doing half-distance races (10K, half-marathon), climbing, scuba-diving (Advanced Diver) and traveling. Moreover, I've always been a passionate about languages and literature. As of today, I fluently speak four of them and I always try to learn more.
