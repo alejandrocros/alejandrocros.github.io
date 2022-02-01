@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alejandro Castro Ros"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research Engineer in Machine Learning"
   location         : "Anywhere between Paris and Madrid"
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : alex castro ros @ hotmail . com (without spaces)
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/alejandro-castro-ros/"
   orcid            :
   pinterest        :
   soundcloud       :
