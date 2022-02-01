@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Alejandro, a Machine Learning Research Engineer with experience both in Research and Development. I have worked for multiple years in Natural Language Processing. Lately, I've worked at Criteo AI Lab as Research Science Intern in transfer learning with multilingual NLP models (specially Transformer-based) and explanaibility.
+I am Alejandro, a Machine Learning Research Engineer with experience both in Research and Development. I have worked for multiple years in Artificial Intelligence R&D and Software Engineering, with special focus on Natural Language Processing. Lately, I've worked at Criteo AI Lab as Research Science Intern in transfer learning with multilingual NLP models (specially Transformer-based) and explanaibility.
 
-## Current situation
-As of today, I'm looking for a position as Engineer in a research lab (either in a company or a public lab).
+As of today, I'm looking for a position as Engineer in a research lab (either in a company or a public lab) where I can help to find the answer to fundamental questions in the field of Artificial Intelligence.
 
 ## Research Interests
 
