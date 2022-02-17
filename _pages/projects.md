@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I have been part of multiple projects related to Software and Artificial Intelligence. In this page you can find some of them. In case you want to know more about any of them, feel free to ping me via mail.
+I have been part of multiple projects related to Software Development and Artificial Intelligence. In this page you can find some of them. In case you want to know more about any of them, feel free to ping me via mail.
 
 ### mctchess (Monte-Carlo Tree Search applied to chess) Python Library
 
