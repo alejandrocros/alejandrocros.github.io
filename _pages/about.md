@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Alejandro, a Machine Learning Research Engineer with experience both in Research and Development. I have worked for multiple years in Artificial Intelligence R&D and Software Engineering, with special focus on Natural Language Processing. Lately, I've worked at Criteo AI Lab as Research Science Intern in transfer learning with multilingual NLP models (specially Transformer-based) and explanaibility.
+I am Alejandro, a Machine Learning Research Engineer with experience both in Research and Development. I have worked for multiple years in Artificial Intelligence R&D and Software Engineering, with special focus on Natural Language Processing. Lately, I've worked at Criteo AI Lab as Research Science Intern in transfer learning with multilingual NLP models (specially Transformer-based) and explainability.
 
-As of today, I'm looking for a position as Engineer in a research lab (either in a company or a public lab) where I can help to find the answer to fundamental questions in the field of Artificial Intelligence.
+As of today, I'm looking for a position as Engineer in a research lab where I can help to ask the questions needed to push the field of Artificial Intelligence in a way that generates the greatest positive impact to society.
+
 
 ## Research Interests
 
-My main research interests are Natural Language Processing (both NLU and NLG) and Reinforcement Learning (specially Deep Learning combined with Monte-Carlo methods). I am very interested in the ethical aspects of AI development, such as AI-alignment, fairness and privacy-preserving models.
-
+My main research interests are Natural Language Processing (both NLU and NLG) and Reinforcement Learning (especially Deep Learning combined with Monte-Carlo methods). I am aware of the potential risks behind Artificial Intelligence, so I am firmly convinced that mitigating and anticipating them is one of the most important challenges in the field. Hence, I am very interested in the ethical aspects of AI development, such as AI-alignment, fairness and privacy-preserving models.
 ## Other Interests
-I'm also very interested in theoretical physics (QFT and Relativity), geometry and topology. In my spare time I enjoy doing half-distance races (10K, half-marathon), climbing, scuba-diving (Advanced Diver), playing chess and travelling. Moreover, I've always been a passionate about languages and literature. As of today, I fluently speak four of them and I always try to learn more.
+I'm also fascinated about physics and mathematics, especially Quantum Computing, General Relativity and Topology. In my spare time I enjoy doing half-distance races (10K, half-marathon), climbing, scuba-diving (Advanced Diver), playing chess and traveling. Moreover, I've always been passionate about literature and languages. As of today, I speak four of them and I always try to learn more.
