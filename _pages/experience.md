@@ -10,12 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-* **M.S. in Computer Science - Artificial Intelligence**, Université PSL (Paris-Dauphine, École Normale Superieure, Mines), 2021.
-* **B.S. in Theoretical Physics**, Universidad Complutense de Madrid, 2018. Thesis on *Quantum Information Theory* under the supervision of [Miguel Ángel Martín-Delgado Alcántara](https://scholar.google.com/citations?user=_lTOFSYAAAAJ&hl=en).
-* **B.S. in Applied Mathematics**, Universidad Complutense de Madrid, 2018. Thesis on NLP applied to social media under the supervision of [Adrián Riesco](http://maude.sip.ucm.es/~adrian/) and [Enrique Martín](https://scholar.google.com/citations?user=jxFFuFwAAAAJ&hl=en).
 
 ## Working - Research experience
+* Mai 2022 - today: **Research Engineer** at Google Paris.
 * Apr-Oct 2021: **Research Science Intern** at [Criteo AI Lab](https://ailab.criteo.com/), Paris.
   * Conducting research on Transfer Learning for Multilingual Transformer-based models.
   * Collaboration with Applied ML Team.
@@ -26,9 +23,13 @@ redirect_from:
 
 * Sep 2018 - Nov 2018: **Software Developer** at [SciTheWorld](https://www.scitheworld.com/), Madrid.
   * Project-based experience in applications of Artificial Intelligence to cybersecurity.
-
+<br/><br/>
 * Aug 2020 - Aug 2021: **AI Advisor** at [Manoo](https://www.linkedin.com/company/manoohq/).
   * Using AI techniques to help SME's mitigate their carbon footprint.
+## Education
+* **M.S. in Computer Science - Artificial Intelligence**, Université PSL (Paris-Dauphine, École Normale Superieure, Mines), 2021.
+* **B.S. in Theoretical Physics**, Universidad Complutense de Madrid, 2018. Thesis on *Quantum Information Theory* under the supervision of [Miguel Ángel Martín-Delgado Alcántara](https://scholar.google.com/citations?user=_lTOFSYAAAAJ&hl=en).
+* **B.S. in Applied Mathematics**, Universidad Complutense de Madrid, 2018. Thesis on NLP applied to social media under the supervision of [Adrián Riesco](http://maude.sip.ucm.es/~adrian/) and [Enrique Martín](https://scholar.google.com/citations?user=jxFFuFwAAAAJ&hl=en).
 
 ## Recognitions - Awards
 * **PRAIRIE** (*Paris Artificial Intelligence Research Insitute*) Fellowship recognising academic excellence, Paris, 2020.
